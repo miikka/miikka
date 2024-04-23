@@ -2,8 +2,9 @@
 
 I'm a professional software developer and occassional open source contributor. I mostly contribute to the Clojure ecosystem.
 
-* Check out my blog [quanttype](https://quanttype.net/). I've [written a lot about Clojure](https://quanttype.net/tags/clojure.html). 
-* I host some of my projects on [sourcehut](https://sr.ht/~miikka/).
+* Check out my blog [quanttype](https://quanttype.net/). I've [written a lot about Clojure](https://quanttype.net/tags/clojure.html) and [about Python]((https://quanttype.net/tags/python.html). 
+* I host some of my projects on [sourcehut](https://sr.ht/~miikka/) and on [codeberg](https://codeberg.org/miikka).
+* My Python tools: [paketoi](https://codeberg.org/miikka/paketoi)
 * My Clojure microlibraries: [cache-metrics](https://github.com/miikka/cache-metrics), [clj-base62](https://sr.ht/~miikka/clj-base62/), [clj-branca](https://sr.ht/~miikka/clj-branca/),  [long-thread](https://github.com/miikka/long-thread), [split-token](https://github.com/miikka/split-token)
 
 ### Previously
