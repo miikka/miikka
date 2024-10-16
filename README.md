@@ -1,6 +1,6 @@
 ### Hi there 👀
 
-I'm a professional software developer and occassional open source contributor. I mostly contribute to the Clojure ecosystem.
+I'm a professional software developer and an occassional open source contributor. I mostly contribute to Rust and Python ecosystems; previously I used to be active in the Clojure community.
 
 * Check out my blog [quanttype](https://quanttype.net/). I've [written a lot about Clojure](https://quanttype.net/tags/clojure.html) and [about Python](https://quanttype.net/tags/python.html). 
 * I host some of my projects on [sourcehut](https://sr.ht/~miikka/) and on [codeberg](https://codeberg.org/miikka).
